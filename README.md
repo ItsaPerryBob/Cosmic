@@ -14,10 +14,6 @@
 
 <a href="https://github.com/devraizer/Cosmic/wiki/Installation---Debian-9,-Morningstar-Arcturus-&-Catalogue---Cosmic">Installation Debian 9, Morningstar Arcturus & Catalogue Cosmic</a>
 
-<a href="https://github.com/devraizer/Cosmic/wiki/Installation---Windows,-Morningstar-Arcturus-&-Catalogue---Cosmic">Windows, Morningstar Arcturus & Catalogue Cosmic</a>
-
-<a href="https://vimeo.com/396311594">IIS Video Tutorial - Cosmic Installation, Morningstar Arcturus & Catalogue Cosmic</a>
-
 <a href="https://github.com/devraizer/Cosmic/wiki/Protect-against-Layer-7-and-4-attacks-on-Linux">Protect against Layer 7 & 4 attacks on Linux</a>
 
 ### Clone
